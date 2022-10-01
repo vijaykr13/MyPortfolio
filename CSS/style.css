@@ -64,7 +64,7 @@ h3{
 .top-cloud{
     position: absolute;
     top: 90px;
-    left: 900px;
+    right: 100px;
 }
 .bottom-cloud{
     position: absolute;
